@@ -1,5 +1,5 @@
 asgiref==3.2.10
-Django==3.2.25
+Django==4.2.20
 pytz==2020.1
 sqlparse==0.5.0
 php-wsgi
@@ -9,7 +9,7 @@ gunicorn
 django-heroku
 whitenoise
 django-allauth
-Jinja2==3.1.4
+Jinja2==3.1.6
 python-etcd==0.4.5
 urllib3==1.26.19
 dnspython>=2.6.1 # not directly required, pinned by Snyk to avoid a vulnerability
